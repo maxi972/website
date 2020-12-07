@@ -37,8 +37,8 @@ li {
 	}
 	
 img {
-		width:  700px;
-        height: 700px;
+		width:  700px auto;
+        height: 700px auto;
         margin: 40px auto;
         
 	}
